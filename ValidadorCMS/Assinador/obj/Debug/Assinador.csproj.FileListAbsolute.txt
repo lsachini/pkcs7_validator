@@ -1,0 +1,36 @@
+\\tsclient\C\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\bin\Debug\Assinador.exe
+\\tsclient\C\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\bin\Debug\Assinador.pdb
+\\tsclient\C\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\bin\Debug\ValidadorCMS.dll
+\\tsclient\C\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\bin\Debug\ValidadorCMS.pdb
+\\tsclient\C\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\obj\Debug\ResolveAssemblyReference.cache
+\\tsclient\C\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\obj\Debug\Assinador.frmAssinador.resources
+\\tsclient\C\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\obj\Debug\Assinador.Properties.Resources.resources
+\\tsclient\C\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\obj\Debug\Assinador.csproj.GenerateResource.Cache
+\\tsclient\C\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\obj\Debug\Assinador.exe
+\\tsclient\C\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\obj\Debug\Assinador.pdb
+\\tsclient\C\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\bin\Debug\Assinador.exe.config
+C:\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\bin\Debug\Assinador.exe.config
+C:\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\obj\Debug\Assinador.exe
+C:\Users\leandro_2\Documents\Visual Studio 2008\Projects\ValidadorCMS\Assinador\obj\Debug\Assinador.pdb
+\\tsclient\C\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\bin\Debug\Assinador.exe.config
+\\tsclient\C\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\obj\Debug\Assinador.exe
+\\tsclient\C\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\obj\Debug\Assinador.pdb
+\\tsclient\C\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\bin\Debug\Assinador.exe
+\\tsclient\C\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\bin\Debug\Assinador.pdb
+\\tsclient\C\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\bin\Debug\ValidadorCMS.dll
+\\tsclient\C\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\bin\Debug\ValidadorCMS.pdb
+\\tsclient\C\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\obj\Debug\ResolveAssemblyReference.cache
+\\tsclient\C\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\obj\Debug\Assinador.frmAssinador.resources
+\\tsclient\C\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\obj\Debug\Assinador.Properties.Resources.resources
+\\tsclient\C\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\obj\Debug\Assinador.csproj.GenerateResource.Cache
+C:\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\bin\Debug\Assinador.exe.config
+C:\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\bin\Debug\Assinador.exe
+C:\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\bin\Debug\Assinador.pdb
+C:\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\bin\Debug\ValidadorCMS.dll
+C:\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\bin\Debug\ValidadorCMS.pdb
+C:\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\obj\Debug\Assinador.frmAssinador.resources
+C:\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\obj\Debug\Assinador.Properties.Resources.resources
+C:\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\obj\Debug\Assinador.csproj.GenerateResource.Cache
+C:\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\obj\Debug\Assinador.exe
+C:\Users\leandro_2\Documents\Publica\Projetos\ValidadorCMS\Assinador\obj\Debug\Assinador.pdb

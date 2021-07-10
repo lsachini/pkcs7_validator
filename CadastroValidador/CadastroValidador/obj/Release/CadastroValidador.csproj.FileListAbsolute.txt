@@ -1,0 +1,12 @@
+C:\Users\leandro_2\Documents\Publica\Projetos\CadastroValidador\CadastroValidador\bin\Release\validador.sdf
+C:\Users\leandro_2\Documents\Publica\Projetos\CadastroValidador\CadastroValidador\bin\Release\CadastroValidador.exe.config
+C:\Users\leandro_2\Documents\Publica\Projetos\CadastroValidador\CadastroValidador\bin\Release\CadastroValidador.exe
+C:\Users\leandro_2\Documents\Publica\Projetos\CadastroValidador\CadastroValidador\bin\Release\CadastroValidador.pdb
+C:\Users\leandro_2\Documents\Publica\Projetos\CadastroValidador\CadastroValidador\obj\Release\ResolveAssemblyReference.cache
+C:\Users\leandro_2\Documents\Publica\Projetos\CadastroValidador\CadastroValidador\obj\Release\CadastroValidador.FrmCertificado.resources
+C:\Users\leandro_2\Documents\Publica\Projetos\CadastroValidador\CadastroValidador\obj\Release\CadastroValidador.FrmPrincipal.resources
+C:\Users\leandro_2\Documents\Publica\Projetos\CadastroValidador\CadastroValidador\obj\Release\CadastroValidador.FrmRegra.resources
+C:\Users\leandro_2\Documents\Publica\Projetos\CadastroValidador\CadastroValidador\obj\Release\CadastroValidador.Properties.Resources.resources
+C:\Users\leandro_2\Documents\Publica\Projetos\CadastroValidador\CadastroValidador\obj\Release\CadastroValidador.csproj.GenerateResource.Cache
+C:\Users\leandro_2\Documents\Publica\Projetos\CadastroValidador\CadastroValidador\obj\Release\CadastroValidador.exe
+C:\Users\leandro_2\Documents\Publica\Projetos\CadastroValidador\CadastroValidador\obj\Release\CadastroValidador.pdb
